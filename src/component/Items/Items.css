@@ -1,0 +1,19 @@
+.img-logo {
+  height: 12vh;
+  width: 12vw;
+  padding: 20px;
+  justify-content: center;
+}
+li {
+  list-style-type: none;
+  margin: 9px;
+  background-color: antiquewhite;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h5 {
+  text-align: center;
+}

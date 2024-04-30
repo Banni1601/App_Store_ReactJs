@@ -1,0 +1,12 @@
+button {
+  list-style-type: none;
+  padding: 20px;
+  outline: none;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.stylee {
+  color: red;
+  text-decoration: underline;
+}
